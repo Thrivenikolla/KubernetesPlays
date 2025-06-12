@@ -4,4 +4,4 @@ metadata:
   name: nginx-config
 data:
   key: value
-  env: test 
+  env: test
