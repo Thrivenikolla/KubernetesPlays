@@ -3,4 +3,4 @@ kind: ConfigMap
 metadata: 
   name: nginx-config
 data:
-  key: value 
+  key: value
